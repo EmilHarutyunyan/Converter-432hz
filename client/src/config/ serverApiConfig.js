@@ -1,5 +1,5 @@
 // Heroku
-export const baseUrl = 'https://stormy-taiga-19539.herokuapp.com/api/v1/'
+export const baseUrl = 'https://converter-432hz.fly.dev/api/v1/'
 
 // Netlify
 // export const baseUrl = '/.netlify/functions/'
